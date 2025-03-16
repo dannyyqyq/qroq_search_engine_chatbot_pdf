@@ -11,15 +11,6 @@ This Streamlit application is a mini-project I created to explore the exciting w
 -   **Hugging Face Embeddings:** Utilizes Hugging Face's `sentence-transformers/all-MiniLM-L6-v2` for efficient document embeddings.
 -   **Streamlit UI:** Provides an intuitive and user-friendly interface for interacting with the application.
 
-## Prerequisites
-
--   Python 3.7+
--   Streamlit
--   LangChain
--   GROQ API key
--   sentence-transformers
--   FAISS
-
 ## Installation
 
 1.  **Clone the repository:**
