@@ -31,7 +31,7 @@ This Streamlit application is a mini-project I created to explore the exciting w
 3.  **Install the required packages:**
 
     ```bash
-    pip install streamlit langchain langchain-groq langchain-community sentence-transformers faiss-cpu
+    pip install -r requirements.txt
     ```
 
 ## Usage
