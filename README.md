@@ -89,5 +89,5 @@ This Streamlit application is a mini-project I created to explore the exciting w
 -   Explore other embedding models.
 -   Add more tools to the LangChain agent.
 
-## Challeneges
+## Challenges
 - Initially the embeddings was done using OPENAI embeddings which needed an additional API key. Therefore i switched to huggingface opensource embeddings which might be less powerful and slower but still get the word done.
