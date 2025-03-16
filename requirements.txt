@@ -1,0 +1,11 @@
+streamlit
+langchain_groq
+langchain-community
+langchain
+faiss-cpu
+arxiv
+wikipedia
+langchain_openai
+duckduckgo-search
+pypdf
+sentence-transformers
