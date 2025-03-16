@@ -1,4 +1,4 @@
-# Chat with Search & PDF using LangChain and GROQ
+# Chat with PDF alongside with Search Engine using GROQ! 
 
 This Streamlit application is a mini-project I created to explore the exciting world of Generative AI. It allows you to chat with a combination of web search results and uploaded PDF documents. I built it to learn more about LangChain, Large Language Models (LLMs), and how to integrate various AI tools into a practical application.
 
